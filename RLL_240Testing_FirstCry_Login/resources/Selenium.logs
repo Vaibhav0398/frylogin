@@ -1,0 +1,23 @@
+18:49:16,763  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:32 - pass browser maximized
+18:49:19,913  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:39 - Login button clicked successfully
+18:49:20,972  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:47 - User enters the firstcry app successfully
+18:49:27,568  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:38 - User successfully navigates to Home page
+18:49:30,250  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:45 - clicks on login successfully
+18:49:31,519  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:52 - email id enters successfully
+18:50:03,043  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:59 - clicks on continue button successfully
+18:50:05,253  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:65 - successfully submitted
+18:50:05,520  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:79 - Assertion successfully
+18:50:12,518  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:38 - User successfully navigates to Home page
+18:50:15,170  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:45 - clicks on login successfully
+18:50:16,372  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:52 - email id enters successfully
+18:50:48,328  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:59 - clicks on continue button successfully
+18:50:54,825  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:38 - User successfully navigates to Home page
+18:50:57,388  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:45 - clicks on login successfully
+18:50:58,504  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:52 - email id enters successfully
+18:51:29,619  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:59 - clicks on continue button successfully
+18:51:37,119  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:38 - User successfully navigates to Home page
+18:51:39,675  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:45 - clicks on login successfully
+18:51:40,943  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:52 - email id enters successfully
+18:52:13,234  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:59 - clicks on continue button successfully
+18:52:14,196  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:65 - successfully submitted
+18:52:14,254  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:79 - Assertion successfully
